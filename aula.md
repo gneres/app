@@ -15,8 +15,24 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
-## Fases da resolução de u problema
+## Fases da resolução de um problema
 
 - Coletar dados
 - Processar os dados (Processar, manipular, alterar, gerencir)
 - Apresentar os dados (Para os usuários)
+
+## Escopos e variáveis
+
+- Varáveis globais e locais: {}
+- Constantes (const): Não se muda o valor.
+- 
+
+## Tipos de dados
+
+- Strings (textos): "", '', ``
+- Number (números): 1, 1.4
+- Function
+
+## Operadores
+
+- Operador de atribuição de valor: =

@@ -1,3 +1,3 @@
-// hello world
-let message = "Hello World!"
-console.log(message);
+// Arrays, objetos, etc.
+
+let metas

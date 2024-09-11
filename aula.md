@@ -1,9 +1,9 @@
 ## Linguagem de Programação
 
-Maneira de dae instrução ao computador.
+Maneira de dar instrução ao computador.
 Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para resolver problemas.
 
-> **Algoritimo**: Sequência de passos lógicos e finito para a resolução de um problema.
+## Algoritimo: Sequência de passos lógicos e finito para a resolução de um problema.
 
 ## Peças de um alinguagem
 
@@ -29,10 +29,29 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 ## Tipos de dados
 
-- Strings (textos): "", '', ``
-- Number (números): 1, 1.4
-- Function
+- [x] Strings (textos): "", '', ``
+- [x] Numbers (números): 1, 1.4
+- [x] Boolean: Só pode ser true ou false. Caso complete a meta, ela se torna true.
 
 ## Operadores
 
-- Operador de atribuição de valor: =
+- [x] Operador de atribuição de valor: É o operador "=".
+- [x] Operador de concatenação: É o operador "+", que é a junção de duas ou mais strings.
+
+## Estruturas de dados:
+
+### Arrays:
+
+- [x] Array: É uma lista que contém qualquer tipo de dado.
+
+### Objetos:
+
+- [x] Atributos e métodos.
+- [x] Criação e manipulação de objetos: Ter a oportunidade de alterar algo/reatribuir o valor.
+- [x] Acesso a propriedades de objetos: Sempre que eu usar o "." eu estou acessando algo dentro da construção.
+
+### Functions
+
+- [x] Criar, passar argumentos.
+- [x] Executar
+- [x] Arrow function: {} => [] / Named Function: {} []

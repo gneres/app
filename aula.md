@@ -37,6 +37,7 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 - [x] Operador de atribuição de valor: É o operador "=".
 - [x] Operador de concatenação: É o operador "+", que é a junção de duas ou mais strings.
+- [x] Operadores de comparação: ==, !=, <=, >=, < >
 
 ## Estruturas de dados:
 
@@ -63,6 +64,7 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 ## Condicionais
 
 - [x] Switch
+- [x] If/else
 
 ## Módulos em Noje.js:
 
@@ -72,6 +74,8 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 ## Programação assíncrona e Promises:
 
 - [x] Uso de funções assíncronas (await/async)
+
+##
 
 
 //----------------------------------------------------------------------------------------------------------------Para Salvar!------------------------------------------------------------------------------------------------------------------------------:)

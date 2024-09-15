@@ -55,3 +55,22 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 - [x] Criar, passar argumentos.
 - [x] Executar
 - [x] Arrow function: {} => [] / Named Function: {} []
+
+## Estrutura de repetição
+
+- [x] While
+
+// let meta = {
+    value: 'ler um livro por mês',
+    checked: true,
+}
+
+let metas = [
+    meta,
+    {
+        value: "caminhar 20 minutos todos os dias",
+        checked: false
+    }
+]
+
+console.log(metas[1].value)

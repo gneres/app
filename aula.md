@@ -64,6 +64,18 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 - [x] Switch
 
+## Módulos em Noje.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- [x] Uso de funções assíncronas (await/async)
+
+
+//----------------------------------------------------------------------------------------------------------------Para Salvar!------------------------------------------------------------------------------------------------------------------------------:)
+
 // let meta = {
     value: 'ler um livro por mês',
     checked: true,

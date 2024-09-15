@@ -60,6 +60,10 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 - [x] While
 
+## Condicionais
+
+- [x] Switch
+
 // let meta = {
     value: 'ler um livro por mês',
     checked: true,

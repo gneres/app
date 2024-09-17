@@ -38,12 +38,14 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 - [x] Operador de atribuição de valor: É o operador "=".
 - [x] Operador de concatenação: É o operador "+", que é a junção de duas ou mais strings.
 - [x] Operadores de comparação: ==, !=, <=, >=, < >
+- [x] Spread operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays:
 
 - [x] Array: É uma lista que contém qualquer tipo de dado.
+- [x] Métodos de array: push, [find, forEach, filter]: são HOF (Higher Order Function)
 
 ### Objetos:
 

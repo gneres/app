@@ -37,7 +37,7 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 - [x] Operador de atribuição de valor: É o operador "=".
 - [x] Operador de concatenação: É o operador "+", que é a junção de duas ou mais strings.
-- [x] Operadores de comparação: ==, !=, <=, >=, < >
+- [x] Operadores de comparação: ==, != (Diferente), <=, >=, < >
 - [x] Spread operator: ...
 
 ## Estruturas de dados:
